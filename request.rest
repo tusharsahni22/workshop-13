@@ -1,0 +1,10 @@
+post http://localhost:3000/api/token
+
+###
+
+post http://localhost:3000/api/verify
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2Mjc5MDM5OTV9.S1ZyMKxuMNg9ezO0J72lUon_EFx4owXEU88WIdSQ46w
+
+
+###
+post http://localhost:3000/api/runcron
